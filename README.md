@@ -2,9 +2,7 @@
 
 # 홈쇼핑
 
-본 예제는 MSA/DDD/Event Storming/EDA 를 포괄하는 분석/설계/구현/운영 전단계를 커버하도록 구성한 예제입니다.
-이는 클라우드 네이티브 애플리케이션의 개발에 요구되는 체크포인트들을 통과하기 위한 예시 답안을 포함합니다.
-- 체크포인트 : https://workflowy.com/s/assessment-check-po/T5YrzcMewfo4J6LW
+ <홈쇼핑 소개가 들어갈 자리!!>
 
 [DDD]
   https://www.msaez.io/#/storming/s1fjCA5xjJOde8YQKGyloSvE8bW2/cd98aed948b45f4c8957ec8882163e1a
